@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1013cbef-61e5-4a99-af82-e1c602f7a793" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zad2 changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie2_1_tmpl.c" beforeDir="false" afterPath="$PROJECT_DIR$/zadanie2_1_tmpl.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie2_1_tmpl.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie2_2_tmpl.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie2_3_tmpl.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2N12EZX0opXRlXULP1NbUlyMSWn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.zadanie2_1_tmpl.c">
+    <configuration name="zadanie2_1_tmpl.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab2" TARGET_NAME="zadanie2_1_tmpl.c" CONFIG_NAME="zadanie2_1_tmpl.c">
+      <option name="sourceFile" value="zadanie2_1_tmpl.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie2_2_tmpl.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab2" TARGET_NAME="zadanie2_2_tmpl.c" CONFIG_NAME="zadanie2_2_tmpl.c">
+      <option name="sourceFile" value="zadanie2_2_tmpl.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie2_3_tmpl.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab2" TARGET_NAME="zadanie2_3_tmpl.c" CONFIG_NAME="zadanie2_3_tmpl.c">
+      <option name="sourceFile" value="zadanie2_3_tmpl.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="false" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1013cbef-61e5-4a99-af82-e1c602f7a793" name="Changes" comment="" />
+      <created>1678817158830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678817158830</updated>
+      <workItem from="1678817160390" duration="2000" />
+      <workItem from="1678817436338" duration="5466000" />
+      <workItem from="1678873672090" duration="742000" />
+      <workItem from="1678891262974" duration="12000" />
+      <workItem from="1678909718730" duration="1880000" />
+      <workItem from="1678911625910" duration="1600000" />
+      <workItem from="1678913255630" duration="2070000" />
+      <workItem from="1678915376738" duration="108000" />
+      <workItem from="1678915496571" duration="7796000" />
+      <workItem from="1679064692581" duration="2000" />
+      <workItem from="1679064705266" duration="321000" />
+      <workItem from="1679065030639" duration="1780000" />
+      <workItem from="1679066851426" duration="1373000" />
+      <workItem from="1679251655038" duration="9976000" />
+      <workItem from="1679262241554" duration="5068000" />
+      <workItem from="1679298928159" duration="6383000" />
+      <workItem from="1679316134061" duration="3166000" />
+      <workItem from="1679319447947" duration="18000" />
+      <workItem from="1679320720703" duration="12000" />
+      <workItem from="1679320743148" duration="295000" />
+      <workItem from="1679321226267" duration="925000" />
+      <workItem from="1680374691977" duration="1801000" />
+      <workItem from="1700686033745" duration="93000" />
+      <workItem from="1700686136076" duration="2000" />
+      <workItem from="1700686146885" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CppFileRunConfiguration">
+        <watch expression="tab[k]" language="ObjectiveC" />
+        <watch expression="tab[min]" language="ObjectiveC" />
+        <watch expression="tab[i]" language="ObjectiveC" />
+        <watch expression="deck[*out]" language="ObjectiveC" />
+        <watch expression="arrayA[*outA]" language="ObjectiveC" />
+        <watch expression="arrayB[*outB]" language="ObjectiveC" />
+        <watch expression="arrayA[i]" language="ObjectiveC" />
+        <watch expression="arrayA[i-1]" language="ObjectiveC" />
+        <watch expression="arrayB[i-1]" language="ObjectiveC" />
+        <watch expression="arrayB[k]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
